@@ -1,0 +1,6 @@
+Date Ran: 25/11/2013
+Beginning Tests...
+Time to register 1000 event listeners: 3
+Time to processor event 1 times: 0.4
+Time to processor event 100 times: 5.26
+Time to processor event 500 times: 24.03
